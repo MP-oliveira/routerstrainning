@@ -24,7 +24,7 @@
   border-radius: 5px;
 }
 
-:global(.active),
+.header :global(.active),
 .link:hover {
   background: #ddd;
 }
